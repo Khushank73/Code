@@ -8,7 +8,7 @@ function App() {
       <h1>react-simple-code-editor</h1>
       <p>A simple no-frills code editor with syntax highlighting.</p>
       <a
-        href="https://github.com/FormidableLabs/react-simple-code-editor"
+        href="https://github.com/Khushank73/CodeEditor"
         className="github-button"
       >
         GitHub
